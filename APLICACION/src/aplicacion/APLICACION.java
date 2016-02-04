@@ -22,5 +22,9 @@ public class APLICACION {
     public void metodo() {
 
     }
+    
+    public void metodoq(){
+        
+    }
 
 }
